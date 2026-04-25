@@ -12,4 +12,5 @@
 | Lab 8  | Minimum Cost Spanning Tree                 | 16 March 26| [Open](Lab_8.ipynb) |
 | Lab 9  | Shortest Path Using Dijkstra Algorithm     | 6 April 26 | [Open](Lab_9.ipynb) |
 | Lab 10 | Shortest Path using Warshall and floyd-warshall algorithm    | 13 April 26 | [Open](Lab_10.ipynb) |
+| Lab 11  | Travelling Salesperson problem using DP      | 20 April 26| [Open](Lab_11.ipynb) |
 
